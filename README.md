@@ -8,7 +8,7 @@ After downloading all the files, first create a new folder on your computer and 
 2) If you are using an IDE, search for "path_to_folder" (without quotes) and replace all by the path you just copied.
 3) Run the program and click on signup. After signing up, log into your account and create a new file to store the records.
 
-Features:
+FEATURES:
 1) Update an existing record
 2) Add new records
 3) Remove all existing records
