@@ -28,9 +28,23 @@ First select a few records using CTRL + LEFT MOUSE and then click on the "Remove
 To sort the records, first select the column with the help of "Column Name" dropdown menu then select ascending/descending. Next, click on the "Sort By" button.
 6) Move a particular record up/down.
 To move the selected record up/down click on "Move Up" or "Move Down" button.
-7) Plot Bar Graph to view performance report of a student. Choose "Student Report" from the dropdown next to "Plot Graph" button and then click on "Plot Graph" button.
+7) Plot Bar Graph to view performance report of a student. Select a record and choose "Student Report" from the dropdown next to "Plot Graph" button and then click on "Plot Graph" button.
 ![image](https://user-images.githubusercontent.com/115524391/211880772-ae6c1f49-547e-48fc-8449-a3a0ba28b2dc.png)
-8) Plot Line Graph/Histogram to view performance of the entire class in a particular subject. Choose subject from the subject dropdown menu and choose "subject-wise" for Line Graph and "Class Report" for histogram from the type dropdown menu.
+8) Plot Line Graph/Histogram to view performance of the entire class in a particular subject. Choose subject from the subject dropdown menu and choose "subject-wise" for Line Graph and "Class Report" for histogram from the dropdown next to "Plot Graph" button and then click on "Plot Graph" button.
 9) Search for a particular student by his/her name.
 Just start writing name of the student in the "Search by name" entry box. Please note that it is case-sensitive.
 11) Grades are calculated automtically.
+
+SCREENSHOTS:
+![Screenshot_20230111_230306](https://user-images.githubusercontent.com/115524391/211882777-be6ab413-1e97-43c9-8e5b-9bdbb8d1749b.png)
+![Screenshot_20230111_230413](https://user-images.githubusercontent.com/115524391/211882788-8ea7f9f5-df63-4c1a-99aa-92d0b9d45949.png)
+![Screenshot_20230111_230441](https://user-images.githubusercontent.com/115524391/211882804-af441582-e8a2-434c-a575-3f2f496fcd8b.png)
+![Screenshot_20230111_232504](https://user-images.githubusercontent.com/115524391/211882832-5d46d7e6-2037-4e0a-b418-e9b1df83434e.png)
+![Screenshot_20230111_232644](https://user-images.githubusercontent.com/115524391/211882854-05f1e9dc-e898-49e3-ba01-1b4889e8b8d1.png)
+![Screenshot_20230111_232922](https://user-images.githubusercontent.com/115524391/211882865-0bc83f3f-44a9-410c-8695-cac5f4e492dd.png)
+![Screenshot_20230111_232945](https://user-images.githubusercontent.com/115524391/211882883-f396c6d5-a82a-40ff-abda-7996f7a14558.png)
+
+
+
+
+
