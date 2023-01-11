@@ -9,6 +9,9 @@ After downloading all the files, first create a new folder on your computer and 
 2) Search for "path_to_folder" (without quotes) and replace all by the path you just copied.
 3) Run the program and click on signup. After signing up, log into your account and create a new file to store the records.
 
+![image](https://user-images.githubusercontent.com/115524391/211877775-a08b0144-0c7e-422e-b2cf-d7a3220157eb.png)
+
+
 FEATURES:
 1) Update an existing record.
 2) Add new records.
@@ -18,3 +21,4 @@ FEATURES:
 6) Move a particular record up/down.
 7) Plot Bar Graph to view performance report of a student.
 8) Plot Line Graph/Histogram to view performance of the entire class in a particular subject.
+9) Grades are calculated automtically.
