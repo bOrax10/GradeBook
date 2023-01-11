@@ -5,7 +5,7 @@ A Python project to store academic records of students in a digital manner & edi
 INSTRUCTIONS:
 
 After downloading all the files, first create a new folder on your computer and move all these files to that folder. Now follow the following steps:
-1) Copy the path of the folder and open Gradebook.py file in Python IDLE or any other IDE.
+1) Copy the path of the folder and open Gradebook.py file in Python IDLE or any other IDE and change all "\" to "/".
 2) Search for "path_to_folder" (without quotes) and replace all by the path you just copied.
 3) Run the program and click on signup. After signing up, log into your account and create a new file to store the records.
 
